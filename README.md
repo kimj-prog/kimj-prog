@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning computer science
 - 🌱 I’m currently learning nothing since it is the summer.
 - 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me my email.
+- 📫 How to reach me, jkimm0038@gmail.com
 
 <!---
 kimj-prog/kimj-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
